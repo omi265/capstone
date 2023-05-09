@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.13276, 28.67441] },
+      "properties": { "name": "PUNJABI BAGH", "cluster": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.22498, 28.63089] },
+      "properties": { "name": "BARAKHAMBA ROAD", "cluster": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06488, 28.62499] },
+      "properties": { "name": "UTTAM NAGAR", "cluster": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.26018, 28.57835] },
+      "properties": { "name": "SUNLIGHT COLONY", "cluster": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.31178, 28.59818] },
+      "properties": { "name": "NEW ASHOK NAGAR", "cluster": 3 }
+    }
+  ]
+}

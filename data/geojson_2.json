@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30617, 28.52299] },
+      "properties": { "name": "SARITA VIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.08644, 28.59139] },
+      "properties": { "name": "SAGARPUR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.23362, 28.65284] },
+      "properties": { "name": "JAMA MASJID", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.22621, 28.64295] },
+      "properties": { "name": "KAMLA MARKET", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20489, 28.56934] },
+      "properties": { "name": "SAFDARJUNG ENCLAVE", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.25743, 28.53321] },
+      "properties": { "name": "KALKAJI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.25644, 28.54728] },
+      "properties": { "name": "KALKAJI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24047, 28.58744] },
+      "properties": { "name": "LODHI COLONY", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.14501, 28.63077] },
+      "properties": { "name": "INDERPURI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.27462, 28.52678] },
+      "properties": { "name": "OKHLA", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.14219, 28.72516] },
+      "properties": { "name": "SAMAYPURBADLI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.10186, 28.71003] },
+      "properties": { "name": "VIJAY VIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15236, 28.53492] },
+      "properties": { "name": "VASANT KUNJ SOUTH", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24417, 28.59238] },
+      "properties": { "name": "H. N. DIN", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24062, 28.6419] },
+      "properties": { "name": "DARYA GANJ", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.09163, 28.69664] },
+      "properties": { "name": "MANGOLPURI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30662, 28.66676] },
+      "properties": { "name": "VIVEKVIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21885, 28.65557] },
+      "properties": { "name": "LAHORI GATE", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.27642, 28.6554] },
+      "properties": { "name": "GEETA COLONY", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.08293, 28.58809] },
+      "properties": { "name": "PALAM VILLAGE", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21115, 28.65399] },
+      "properties": { "name": "SADAR BAZAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19913, 28.57449] },
+      "properties": { "name": "SAROJINI NAGAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.0872, 28.52958] },
+      "properties": { "name": "KAPASHERA", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.31708, 28.61363] },
+      "properties": { "name": "KALYANPURI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24052, 28.56843] },
+      "properties": { "name": "LAJPAT NAGAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.28072, 28.66699] },
+      "properties": { "name": "KRISHNA NAGAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.23278, 28.5541] },
+      "properties": { "name": "GREATER KAILASH", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06834, 28.62997] },
+      "properties": { "name": "VIKAS PURI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.23337, 28.56468] },
+      "properties": { "name": "DEFENCE COLONY", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.28196, 28.54046] },
+      "properties": { "name": "SARITA VIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19855, 28.55848] },
+      "properties": { "name": "SAFDARJUNG ENCLAVE", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24299, 28.50957] },
+      "properties": { "name": "SANGAM VIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30367, 28.60733] },
+      "properties": { "name": "MAYURVIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.26733, 28.65955] },
+      "properties": { "name": "GANDHI NAGAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.22715, 28.52882] },
+      "properties": { "name": "SAKET", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2703, 28.63775] },
+      "properties": { "name": "SHAKARPUR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.13509, 28.64053] },
+      "properties": { "name": "KIRTI NAGAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.121, 28.73043] },
+      "properties": { "name": "KN KATJU MARG", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.16933, 28.55797] },
+      "properties": { "name": "VASANT VIHAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1932, 28.65256] },
+      "properties": { "name": "KAROL BAGH", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.18368, 28.66837] },
+      "properties": { "name": "SARAI ROHILLA", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19262, 28.67005] },
+      "properties": { "name": "GULABIBAGH", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.33267, 28.62486] },
+      "properties": { "name": "GHAZIPUR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.31653, 28.67811] },
+      "properties": { "name": "SEEMAPURI", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.28518, 28.6742] },
+      "properties": { "name": "SHAHDARA", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2561, 28.71113] },
+      "properties": { "name": "KHAJURIKHAS", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2917, 28.69612] },
+      "properties": { "name": "JYOTI NAGAR", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.27297, 28.67909] },
+      "properties": { "name": "ZAFRABAD", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.27479, 28.67341] },
+      "properties": { "name": "WELCOME", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.316, 28.68496] },
+      "properties": { "name": "G.T.B. ENCLAVE", "cluster": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.28085, 28.70225] },
+      "properties": { "name": "GOKULPURI", "cluster": 1 }
+    }
+  ]
+}

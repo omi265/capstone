@@ -1,0 +1,295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2492, 28.53632] },
+      "properties": { "name": "CHITRANJAN PARK", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.086, 28.61268] },
+      "properties": { "name": "DABRI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.23608, 28.64361] },
+      "properties": { "name": "CHANDNI MAHAL", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19369, 28.70257] },
+      "properties": { "name": "MODEL TOWN", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.22618, 28.66645] },
+      "properties": { "name": "KASHMERE GATE", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06618, 28.6091] },
+      "properties": { "name": "BINDAPUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.12757, 28.71793] },
+      "properties": { "name": "PRASHANT VIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.179, 28.57051] },
+      "properties": { "name": "SOUTH CAMPUS", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.17532, 28.70984] },
+      "properties": { "name": "ADRASH NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30265, 28.62038] },
+      "properties": { "name": "PANDAV NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.08879, 28.67965] },
+      "properties": { "name": "MIANWALI NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21754, 28.64981] },
+      "properties": { "name": "NABI KARIM", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.11992, 28.63969] },
+      "properties": { "name": "RAJOURI GARDEN", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.17487, 28.73358] },
+      "properties": { "name": "JAHANGIR PURI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.29224, 28.66879] },
+      "properties": { "name": "FARASH BAZAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.18053, 28.64784] },
+      "properties": { "name": "PARSHAD NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.12084, 28.62657] },
+      "properties": { "name": "MAYA PURI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.16574, 28.74286] },
+      "properties": { "name": "BHALSWA DAIRY", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.13777, 28.63356] },
+      "properties": { "name": "NARAINA", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.18285, 28.63505] },
+      "properties": { "name": "RAJINDER NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15712, 28.71681] },
+      "properties": { "name": "SHALIMAR BAGH", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15977, 28.68423] },
+      "properties": { "name": "KESHAV PURAM", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20846, 28.66539] },
+      "properties": { "name": "BARA HINDU RAO", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.17432, 28.69245] },
+      "properties": { "name": "ASHOK VIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.09946, 28.60935] },
+      "properties": { "name": "HARI NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20931, 28.64583] },
+      "properties": { "name": "PAHARGANJ", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30357, 28.49385] },
+      "properties": { "name": "BADAR PUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.23372, 28.60415] },
+      "properties": { "name": "PRASHANT VIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.29235, 28.56207] },
+      "properties": { "name": "JAMIA NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2315, 28.66254] },
+      "properties": { "name": "KASHMERE GATE", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.29099, 28.50165] },
+      "properties": { "name": "PULPRAHLAD PUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.22548, 28.64335] },
+      "properties": { "name": "HAUZQAZI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06744, 28.62046] },
+      "properties": { "name": "BINDAPUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.23537, 28.61821] },
+      "properties": { "name": "TILAK MARG", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1196, 28.65151] },
+      "properties": { "name": "RAJOURI GARDEN", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15868, 28.64751] },
+      "properties": { "name": "RANJIT NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.03599, 28.65375] },
+      "properties": { "name": "RANHOLA", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.29526, 28.63852] },
+      "properties": { "name": "PREETVIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20847, 28.54939] },
+      "properties": { "name": "HAUZ KHAS", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.22514, 28.5759] },
+      "properties": { "name": "KOTALA MUBARAK PUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19326, 28.65258] },
+      "properties": { "name": "D.B.G ROAD", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15822, 28.65237] },
+      "properties": { "name": "PATEL NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.08849, 28.85321] },
+      "properties": { "name": "NARELA", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21366, 28.62473] },
+      "properties": { "name": "PARLIAMENT STREET", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.0717, 28.665] },
+      "properties": { "name": "NIHAL VIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.17851, 28.68062] },
+      "properties": { "name": "BHARAT NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30612, 28.62543] },
+      "properties": { "name": "MANDAWALI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.14605, 28.70045] },
+      "properties": { "name": "MAURYA ENCLAVE", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.08188, 28.62863] },
+      "properties": { "name": "JANAK PURI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20265, 28.68499] },
+      "properties": { "name": "ROOP NAGAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.11815, 28.70894] },
+      "properties": { "name": "ROHINI NORTH", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.26855, 28.6743] },
+      "properties": { "name": "SEELAMPUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.29856, 28.68277] },
+      "properties": { "name": "MANSAROVAR PARK", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.31849, 28.70603] },
+      "properties": { "name": "HARSH VIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2644, 28.70128] },
+      "properties": { "name": "BHAJANPURI", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.26207, 28.67202] },
+      "properties": { "name": "NEW USMANPUR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.25611, 28.71128] },
+      "properties": { "name": "SONIA VIHAR", "cluster": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2745, 28.73284] },
+      "properties": { "name": "KARAWAL NAGAR", "cluster": 4 }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .sidebar {
+    position: absolute;
+    margin: 20px 20px 30px 20px;
+    width: 25%;
+    top: 0;
+    bottom: 0;
+    padding: 20px;
+    background-color: #fff;
+    overflow-y: scroll;
+  }
+
+  .card {
+    font-size: small;
+    border-bottom: solid #d3d3d3 2px;
+    margin-bottom: 6px;
+  }
+
+  .card-header {
+    font-weight: bold;
+    padding: 6px;
+  }
+
+  .no-route {
+    background-color: #d3d3d3;
+    color: #f00;
+  }
+
+  .obstacle-found {
+    background-color: #d3d3d3;
+    color: #fff;
+  }
+
+  .route-found {
+    background-color: #33a532;
+    color: #fff;
+  }
+
+  .card-details {
+    padding: 3px 6px;
+  }
+
+  .legend_holder{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .legend{
+    display: flex;
+    align-items: center;
+    font-size: small;
+  }
+  
+  .level_5{
+    height: 15px;
+    width: 15px;
+    background-color: #fa0505;
+    margin-right: 6px;
+  }
+
+  .level_4{
+    height: 15px;
+    width: 15px;
+    background-color: #fa9805;
+    margin-right: 6px;
+  }
+
+  .level_3{
+    height: 15px;
+    width: 15px;
+    background-color: #f2fa05;
+    margin-right: 6px;
+  }
+
+  .level_2{
+    height: 15px;
+    width: 15px;
+    background-color: #05f2fa;
+    margin-right: 6px;
+  }
+
+  .level_1{
+    height: 15px;
+    width: 15px;
+    background-color: #05fa53;
+    margin-right: 6px;
+  }

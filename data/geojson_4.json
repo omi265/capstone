@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20418, 28.52989] },
+      "properties": { "name": "MALVIYA NAGAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.29373, 28.65335] },
+      "properties": { "name": "ANANDVIHAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.26532, 28.53067] },
+      "properties": { "name": "GOVIND PURI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2676, 28.56234] },
+      "properties": { "name": "NEW FRIENDS COLONY", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2242, 28.7072] },
+      "properties": { "name": "TIMARPUR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.17376, 28.66004] },
+      "properties": { "name": "ANAND PARBAT", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1159, 28.70236] },
+      "properties": { "name": "ROHINI SOUTH", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19735, 28.73664] },
+      "properties": { "name": "BURARI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.19606, 28.60337] },
+      "properties": { "name": "CHANAKYAPURI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20856, 28.70024] },
+      "properties": { "name": "MUKHERJI NAGAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06081, 28.70965] },
+      "properties": { "name": "AMAN VIHAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24093, 28.55914] },
+      "properties": { "name": "AMAR COLONY", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.16418, 28.72579] },
+      "properties": { "name": "MAHENDRA PARK", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21428, 28.49893] },
+      "properties": { "name": "NEB SARAI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.11933, 28.69784] },
+      "properties": { "name": "RANI BAGH", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21432, 28.63] },
+      "properties": { "name": "CONNAUGHT PLACE", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.07856, 28.70265] },
+      "properties": { "name": "SULTAN PURI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2215, 28.68851] },
+      "properties": { "name": "CIVIL LINES", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.10143, 28.63896] },
+      "properties": { "name": "TILAK NAGAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.14659, 28.66013] },
+      "properties": { "name": "MOTI NAGAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.98269, 28.60975] },
+      "properties": { "name": "NAJAFGARH", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.14412, 28.68901] },
+      "properties": { "name": "SUBHASH PLACE", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20774, 28.66917] },
+      "properties": { "name": "SUBZIMANDI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20652, 28.69251] },
+      "properties": { "name": "MAURICE NAGAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.20325, 28.63857] },
+      "properties": { "name": "MANDIR MARG", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.21117, 28.59827] },
+      "properties": { "name": "TUGLAK ROAD", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.31306, 28.65597] },
+      "properties": { "name": "ANANDVIHAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.1562, 28.75841] },
+      "properties": { "name": "SWARUP NAGAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06698, 28.68199] },
+      "properties": { "name": "NANGLOI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.10115, 28.67112] },
+      "properties": { "name": "PASCHIM VIHAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.24722, 28.6274] },
+      "properties": { "name": "I.P. ESTATE", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.11332, 28.65761] },
+      "properties": { "name": "KHYALA", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2839, 28.64359] },
+      "properties": { "name": "JAGATPURI", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30612, 28.62543] },
+      "properties": { "name": "MADHUVIHAR", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15232, 28.53486] },
+      "properties": { "name": "VASANT KUNJ NORTH", "cluster": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.30817, 28.69853] },
+      "properties": { "name": "NANDNAGARI", "cluster": 2 }
+    }
+  ]
+}

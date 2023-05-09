@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Helloo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <!-- Mapbox GL Directions -->
+<script src=https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.2/mapbox-gl-directions.js></script>
+<link rel="stylesheet" href=https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.2/mapbox-gl-directions.css type="text/css" />
+
+<!-- Turf & Polyline -->
+<script src="https://npmcdn.com/@turf/turf/turf.min.js"></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/mapbox-polyline/1.1.1/polyline.js></script>
+    <div id="map"></div>
+    <div class="sidebar">
+      <div class="heading">
+        <h2>Legend:</h3>
+        <div class="legend_holder">
+          <div class="legend">
+            <div class="level_5"></div>
+            <div>Level 5</div>
+          </div>
+          <div class="legend">
+            <div class="level_4"></div>
+            <div>Level 4</div>
+          </div>
+          <div class="legend">
+            <div class="level_3"></div>
+            <div>Level 3</div>
+          </div>
+          <div class="legend">
+            <div class="level_2"></div>
+            <div>Level 2</div>
+          </div>
+          <div class="legend">
+            <div class="level_1"></div>
+            <div>Level 1</div>
+          </div>
+      </div>
+        <h2>Routes</h1>
+      </div>
+      <div id="reports" class="reports"></div>
+    </div>
+    <script src="./map.js"></script>
+  </body>
+</html>

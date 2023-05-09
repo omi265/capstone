@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.00361, 28.72582] },
+      "properties": { "name": "KANJHAWALA", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.01564, 28.60369] },
+      "properties": { "name": "DWARKA NORTH", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.15114, 28.46549] },
+      "properties": { "name": "FATEHPUR BERI", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.91555, 28.59572] },
+      "properties": { "name": "JAFFARPUR KALAN", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.13913, 28.79903] },
+      "properties": { "name": "ALIPUR", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.04254, 28.79654] },
+      "properties": { "name": "BAWANA", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.05179, 28.72449] },
+      "properties": { "name": "BEGUM PUR", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.06666, 28.57837] },
+      "properties": { "name": "DWARKA SOUTH", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.07894, 28.74766] },
+      "properties": { "name": "SHAHBAD DAIRY", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.05849, 28.56411] },
+      "properties": { "name": "DWARKA SEC-23", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.0228, 28.80659] },
+      "properties": { "name": "BAWANA", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.12437, 28.59872] },
+      "properties": { "name": "DELHI CANTT", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.96681, 28.62867] },
+      "properties": { "name": "BABA HARI DAS NAGAR", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.99466, 28.58691] },
+      "properties": { "name": "CHHAWLA", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.18019, 28.52149] },
+      "properties": { "name": "MEHRAULI", "cluster": 0 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [76.96085, 28.67042] },
+      "properties": { "name": "MUNDKA", "cluster": 0 }
+    }
+  ]
+}
