@@ -1,9 +1,7 @@
-// The value for 'accessToken' begins with 'pk...'
 mapboxgl.accessToken =
   "pk.eyJ1Ijoib21rYXIyNjUiLCJhIjoiY2xlcW5lbm5hMG56ZDN1bzE1YWN0MzNkcSJ9.cCFrcF40FFfue9TNpCYj6w";
 const map = new mapboxgl.Map({
   container: "map",
-  // Replace YOUR_STYLE_URL with your style URL.
   style: "mapbox://styles/mapbox/navigation-night-v1",
   center: [77.219656, 28.632161],
   zoom: 10,
@@ -977,7 +975,6 @@ map.on("load", () => {
     },
   });
 
-  // Source and layer for the bounding box
   map.addSource("theBox", {
     type: "geojson",
     data: {
@@ -1009,9 +1006,7 @@ const reports = document.getElementById("reports");
 function addCard(id, element, clear, detail) {
   const card = document.createElement("div");
   card.className = "card";
-  // Add the response to the individual report created above
   const heading = document.createElement("div");
-  // Set the class type based on clear value
   heading.className =
     clear === true ? "card-header route-found" : "card-header obstacle-found";
   heading.innerHTML =
@@ -1031,13 +1026,11 @@ function addCard(id, element, clear, detail) {
 function noRoutes(element) {
   const card = document.createElement("div");
   card.className = "card";
-  // Add the response to the individual report created above
   const heading = document.createElement("div");
   heading.className = "card-header no-route";
   emoji = "🛑";
   heading.innerHTML = `${emoji} Ending search.`;
 
-  // Add details to the individual report
   const details = document.createElement("div");
   details.className = "card-details";
   details.innerHTML = `No Safe route found in ${counter} tries.`;
@@ -1056,7 +1049,6 @@ directions.on("clear", () => {
 });
 
 directions.on("route", (event) => {
-  // Hide the route and box by setting the opacity to zero
   map.setLayoutProperty("theRoute", "visibility", "none");
   map.setLayoutProperty("theBox", "visibility", "none");
 
